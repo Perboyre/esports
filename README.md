@@ -6,7 +6,7 @@
 
 Projeto construído no evento Next Level Week da Rocketseat.
 
-[:link: Clique aqui para acessar](httpshttps://perboyre.github.io/esports/)
+[:link: Clique aqui para acessar](https://perboyre.github.io/esports/)
 
 ## :hammer_and_wrench: Tecnologias
 
